@@ -67,7 +67,7 @@ $formData = json_decode($_POST["user"], true);
 
 $servername = "localhost";
 $username = "root";
-$password = "Oc-n-s-d!";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
