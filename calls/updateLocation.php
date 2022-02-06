@@ -8,7 +8,7 @@ echo $formData["latitude"] . ", " . $formData["latitude"] . ", " . $formData["em
 
 $servername = "localhost";
 $username = "root";
-$password = "Oc-n-s-d!";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
