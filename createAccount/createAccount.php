@@ -13,7 +13,7 @@ $formData = json_decode(file_get_contents("php://input"), true);
 //All of these are subject to change depending on where you are trying to connect
 $servername = "localhost";
 $username = "root";
-$password = "Oc-n-s-d!";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
