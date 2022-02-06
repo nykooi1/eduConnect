@@ -27,7 +27,7 @@ function distance($lat1, $lon1, $lat2, $lon2, $unit) {
 //loop through all the users in the database and check if they have a longitude and latitude
 $servername = "localhost";
 $username = "root";
-$password = "Oc-n-s-d!";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
