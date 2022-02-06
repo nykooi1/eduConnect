@@ -9,7 +9,7 @@ $formData = json_decode(file_get_contents("php://input"), true);
 
 $servername = "localhost";
 $username = "root";
-$password = "Oc-n-s-d!";
+$password = "*******";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
